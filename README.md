@@ -1,0 +1,1 @@
+Addressables repository for MadPixelTest project
